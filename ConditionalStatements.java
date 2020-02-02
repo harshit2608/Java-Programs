@@ -49,7 +49,6 @@ public class ConditionalStatements
                         results[i] = 0.0d;
                     }
                     break;
-
             }
         }
 
